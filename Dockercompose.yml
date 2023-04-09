@@ -3,4 +3,4 @@ services:
   web:
     image: aagusman/apps-aagusman
     ports:
-      - "80:80"
+      - "8085:80"
