@@ -2,5 +2,5 @@ version: "3.9"
 services:
   web:
     image: aagusman/apps-aagusman
-      ports:
-        - "80:80"
+    ports:
+      - "80:80"
